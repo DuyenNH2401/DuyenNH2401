@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Revenue Report</h2>
+
+<p><strong>Total Revenue:</strong> {{ total_revenue }} VND</p>
+
+<div class="table-responsive">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Slot ID</th>
+                <th>Owner</th>
+                <th>Check-in Time</th>
+                <th>Check-out Time</th>
+                <th>Fee</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for transaction in revenue %}
+                <tr>
+                    <td>{{ transaction.slot_id }}</td>
+                    <td>{{ transaction.owner }}</td>
+                    <td>{{ transaction.in_time }}</td>
+                    <td>{{ transaction.out_time }}</td>
+                    <td>{{ transaction.fee }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-6 mx-auto">
+            <h1 class="text-center mb-4">Welcome to Smart Parking System</h1>
+            <p class="text-center">Discover. Reserve. Park with confidence.</p>
+            <div class="d-flex justify-content-center mt-5">
+                <a href="{{ url_for('login') }}" class="btn btn-primary btn-lg">Enter the System</a>
+            </div>
+        </div>
+    </div>
+{% endblock %}

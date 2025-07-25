@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Find Parking on Google Maps</h2>
+
+{% if done %}
+  <div class="alert alert-success text-center">
+    <p>Opening Google Maps for: <strong>{{ address or 'nearby' }}</strong></p>
+    <p><a href="#" onclick="window.history.back()">Back to Dashboard</a></p>
+  </div>
+{% else %}
+  <form method="POST" class="col-md-6 mx-auto">
+    <div class="mb-3">
+      <label for="address" class="form-label">Enter address/city (leave blank for nearby)</label>
+      <input type="text" class="form-control" id="address" name="address">
+    </div>
+    <button type="submit" class="btn btn-primary w-100">Search</button>
+  </form>
+{% endif %}
+{% endblock %}

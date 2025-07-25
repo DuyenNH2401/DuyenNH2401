@@ -1,0 +1,6 @@
+username,password,role
+admin,$2b$12$b3U5F98q3UccC5MyHZkqbuUtvxu34tIXK9zb9LQ.7rlDvDySAuzYG,admin
+duyen,$2b$12$MBx54zTPse3vyIav14xt6ObfrVo6iBq1qOQRJvh91XVSHkHxgyDQi,owner
+duyen123,$2b$12$ZJFfbsx9x6whqrz4HYSzDOoqIvW/Azcb6OpBmbCJ09w7nYb.6kNFu,owner
+att,$2b$12$TFy324i2Tb03x9NiOQ7sOenhzsCWF0acHc8BCIQNEiZHahpn6C3pm,attendant
+duyen2,$2b$12$2C.7b8mrVsFsj/3DckLU5umCMYlu1iWhACfwcBwipgClWRaKD90Kq,owner

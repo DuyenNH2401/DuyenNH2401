@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2 class="text-center mb-4">View &amp; Pay Parking Fees</h2>
+
+  {% if unpaid %}
+    <form method="POST" class="col-md-6 mx-auto">
+      <div class="mb-3">
+        <label for="index" class="form-label">Select Transaction to Pay</label>
+        <select class="form-control" id="index" name="index" required>
+          {% for t in unpaid %}
+            <option value="{{ loop.index0 }}">
+              {{ t.vehicle_plate }} — Checked in: {{ t.in_time }} — Fee: {{ t.fee }} VND
+            </option>
+          {% endfor %}
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary w-100">Pay Fee</button>
+    </form>
+  {% else %}
+    <div class="alert alert-info text-center">
+      You have no unpaid parking fees.
+    </div>
+  {% endif %}
+
+  <div class="text-center mt-4">
+    <a href="{{ url_for('dashboard', role='owner') }}" class="btn btn-secondary">
+      ← Back to Dashboard
+    </a>
+  </div>
+{% endblock %}

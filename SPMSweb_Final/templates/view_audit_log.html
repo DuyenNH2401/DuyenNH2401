@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Audit Log</h2>
+
+<div class="table-responsive">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Username</th>
+                <th>Action</th>
+                <th>Detail</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for log in audit_log %}
+                <tr>
+                    <td>{{ log['time'] }}</td>
+                    <td>{{ log['username'] }}</td>
+                    <td>{{ log['action'] }}</td>
+                    <td>{{ log['detail'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

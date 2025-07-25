@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Owner Dashboard</h2>
+<div class="list-group">
+  <a href="{{ url_for('view_available_slots') }}"
+     class="list-group-item list-group-item-action">
+    View Available Slots
+  </a>
+  <a href="{{ url_for('pay_fee') }}" class="list-group-item list-group-item-action">
+    View &amp; Pay Parking Fees
+  </a>
+  <a href="{{ url_for('find_parking') }}"
+     class="list-group-item list-group-item-action">
+    Find Parking on Google Maps
+  </a>
+</div>
+{% endblock %}

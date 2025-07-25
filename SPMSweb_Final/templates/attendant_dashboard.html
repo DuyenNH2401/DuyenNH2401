@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Attendant Dashboard</h2>
+<div class="list-group">
+    <a href="{{ url_for('checkin') }}" class="list-group-item list-group-item-action">Check-in Vehicle</a>
+    <a href="{{ url_for('checkout') }}" class="list-group-item list-group-item-action">Check-out Vehicle</a>
+    <a href="{{ url_for('view_available_slots') }}" class="list-group-item list-group-item-action">View Available Slots</a>
+</div>
+{% endblock %}

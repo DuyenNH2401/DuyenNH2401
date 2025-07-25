@@ -1,0 +1,8 @@
+Flask>=2.2.0
+qrcode>=7.3.1
+Pillow>=9.4.0
+questionary>=1.11.0
+pwinput>=1.4.10
+colorama>=0.4.6
+reportlab>=3.6.12
+requests>=2.31.0

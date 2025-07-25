@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Remove Parking Slot</h2>
+<form method="POST">
+    <div class="mb-3">
+        <label for="slot_id" class="form-label">Slot ID to Remove</label>
+        <input type="number" class="form-control" id="slot_id" name="slot_id" required min="1">
+    </div>
+    <button type="submit" class="btn btn-danger w-100">Remove Slot</button>
+</form>
+{% endblock %}

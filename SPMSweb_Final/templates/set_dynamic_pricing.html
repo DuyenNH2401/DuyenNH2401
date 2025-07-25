@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Set Dynamic Pricing</h2>
+<form method="POST">
+    <div class="mb-3">
+        <label for="start" class="form-label">Start Hour</label>
+        <input type="number" class="form-control" id="start" name="start" min="0" max="23" required>
+    </div>
+    <div class="mb-3">
+        <label for="end" class="form-label">End Hour</label>
+        <input type="number" class="form-control" id="end" name="end" min="0" max="23" required>
+    </div>
+    <div class="mb-3">
+        <label for="rate" class="form-label">Rate</label>
+        <input type="number" class="form-control" id="rate" name="rate" step="0.01" required>
+    </div>
+    <button type="submit" class="btn btn-primary w-100">Set Price</button>
+</form>
+{% endblock %}

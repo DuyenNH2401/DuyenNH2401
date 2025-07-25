@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="text-center">Check-in Vehicle</h2>
+
+{% if error %}
+  <div class="alert alert-danger">{{ error }}</div>
+{% endif %}
+
+<form method="POST">
+  <div class="mb-3">
+    <label for="vehicle_plate" class="form-label">Vehicle Plate</label>
+    <input type="text" class="form-control" id="vehicle_plate" name="vehicle_plate" required>
+  </div>
+  <div class="mb-3">
+    <label for="owner_username" class="form-label">Owner Username</label>
+    <input type="text" class="form-control" id="owner_username" name="owner_username" required>
+  </div>
+  <button type="submit" class="btn btn-primary w-100">Check In</button>
+</form>
+{% endblock %}
