@@ -1,35 +1,51 @@
-# WELCOME TO MY PAGE 👋👋👋
-My name is Nguyen Huu Duyen. I am a Undergraduate student at FPT University. I am interested in the following topics: AI, Deep Learning, Reinforcement Learning.
-## 📫 How to reach me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Always+learning+new+things..." alt="Typing SVG" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyennguyen2401)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duyennguyenfu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyenNH2401)
+<div align="center">
+  <h3>🚀 About Me</h3>
+</div>
 
-<a href="https://github.com/DuyenNH2401/AI-Learning-Path">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyenNH2401&repo=AI-Learning-Path&theme=radical" />
-</a>
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **Next.js, Go, Cloud Architecture**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, System Design**
+- 📫 How to reach me: **email@example.com**
 
-<a href="https://github.com/DuyenNH2401/Python_Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyenNH2401&repo=Python_Learning&theme=radical" />
-</a>
+---
 
-<a href="https://github.com/DuyenNH2401/ProjectEuler">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyenNH2401&repo=ProjectEuler&theme=radical" />
-</a>
+<div align="center">
+  <h3>📊 My GitHub Stats</h3>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=DuyenNH2401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="github stats" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyenNH2401&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats" height="180"/>
+  </p>
 
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyenNH2401&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="top langs" height="180"/>
+  </p>
+</div>
 
-<!--
-**DuyenNH2401/DuyenNH2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>🛠️ Tech Stack & Tools</h3>
+  
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://github.com/DuyenNH2401/DuyenNH2401/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=DuyenNH2401&style=flat-square&color=blueviolet" alt="visitor counter"/>
+</div>
