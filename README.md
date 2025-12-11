@@ -8,7 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Student+At+FPT+Uni;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-###
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Reinforcement Learning**
+- 🌱 I’m currently learning **Pytorch, Tensorflow, ROS2**
+- ⚡ Fun fact: I love solving puzzles and optimization problems.
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyennguyen2401)
