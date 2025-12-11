@@ -1,20 +1,10 @@
 # WELCOME TO MY PAGE 👋👋👋
 My name is Nguyen Huu Duyen. I am a Undergraduate student at FPT University. I am interested in the following topics: AI, Deep Learning, Reinforcement Learning.
+## 📫 How to reach me:
 
-### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/duyennguyen2401)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duyennguyenfu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyenNH2401)
-
-![Duyen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DuyenNH2401&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuyenNH2401&show_icons=true&theme=radical" alt="github stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyenNH2401&layout=compact&theme=radical" alt="top langs" width="45%" />
-</p>
----
-### 🏆 Featured Projects
 
 <a href="https://github.com/DuyenNH2401/AI-Learning-Path">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DuyenNH2401&repo=AI-Learning-Path&theme=radical" />
