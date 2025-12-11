@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **duyennhce200017@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyennguyen2401)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duyennguyenfu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyenNH2401)
