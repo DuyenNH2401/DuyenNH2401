@@ -1,5 +1,12 @@
-## Hi there 👋
+# WELCOME TO MY PAGE 👋👋👋
+My name is Nguyen Huu Duyen. I am a Undergraduate student at FPT University. I am interested in the following topics: AI, Deep Learning, Reinforcement Learning.
 
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/duyennguyen2401)
+[![Kaggle](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duyennguyenfu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyenNH2401)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyenNH2401&show_icons=true&theme=dracula)
 <!--
 **DuyenNH2401/DuyenNH2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
