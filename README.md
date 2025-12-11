@@ -8,8 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Student+At+FPT+Uni;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-### 👨‍💻 About Me
+My name is Duyen and I'm a Undergraduate student at FPT University, from  VietNam.
 
+### 👨‍💻 About Me
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Reinforcement Learning**
 - 🌱 I’m currently learning **Pytorch, Tensorflow, ROS2**
 - ⚡ Fun fact: I love solving puzzles and optimization problems.
@@ -20,6 +21,14 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duyennguyenfu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyenNH2401)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DuyenNHCE200017@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyenNH2401/DuyenNH2401/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyenNH2401/DuyenNH2401/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DuyenNH2401/DuyenNH2401/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ### Code & Tools
 
