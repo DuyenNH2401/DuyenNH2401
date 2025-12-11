@@ -1,51 +1,37 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Always+learning+new+things..." alt="Typing SVG" />
-</div>
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+23823
+Fork on GitHub
+8169
 
-<div align="center">
-  <h3>🚀 About Me</h3>
-</div>
+back to edit
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Next.js, Go, Cloud Architecture**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, System Design**
-- 📫 How to reach me: **email@example.com**
+copy-markdown
 
----
+download markdown
 
-<div align="center">
-  <h3>📊 My GitHub Stats</h3>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DuyenNH2401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="github stats" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyenNH2401&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats" height="180"/>
-  </p>
+download backup
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyenNH2401&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="top langs" height="180"/>
-  </p>
-</div>
+preview
+<h1 align="center">Hi 👋, I'm Duyen Nguyen</h1>
+<h3 align="center">A passionate AI from VietNam</h3>
 
----
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Reinforcement Learning**
 
-<div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </div>
+- 🌱 I’m currently learning **Pytorch, Tensorflow, ROS2**
 
----
+- 📫 How to reach me **duyennhce200017@gmail.com**
 
-<div align="center">
-  <img src="https://github.com/DuyenNH2401/DuyenNH2401/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/duyennguyen2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duyennguyen2401" height="30" width="40" /></a>
+<a href="https://kaggle.com/duyennguyenfu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="duyennguyenfu" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=DuyenNH2401&style=flat-square&color=blueviolet" alt="visitor counter"/>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
