@@ -15,6 +15,14 @@ My name is Duyen and I'm a Undergraduate student at FPT University, from  VietNa
 - 🌱 I’m currently learning **Pytorch, Tensorflow, ROS2**
 - ⚡ Fun fact: I love solving puzzles and optimization problems.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 ### Code & Tools
 
 <div align="left">
