@@ -9,12 +9,12 @@
 </div>
 
 My name is Duyen and I'm a Undergraduate student at FPT University, from  VietNam.
-
+---
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Reinforcement Learning**
 - 🌱 I’m currently learning **Pytorch, Tensorflow, ROS2**
 - ⚡ Fun fact: I love solving puzzles and optimization problems.
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyenNH2401/DuyenNH2401/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyenNH2401/DuyenNH2401/output/pacman-contribution-graph.svg">
@@ -22,7 +22,7 @@ My name is Duyen and I'm a Undergraduate student at FPT University, from  VietNa
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
+---
 ### Code & Tools
 
 <div align="left">
@@ -52,14 +52,14 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
+---
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyennguyen2401)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duyennguyenfu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyenNH2401)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DuyenNHCE200017@gmail.com)
-
+---
 ###
 
 <div>
