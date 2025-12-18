@@ -13,7 +13,7 @@ My name is Duyen and I'm a Undergraduate student at FPT University, from  VietNa
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Reinforcement Learning**
 - 🌱 I’m currently learning **Pytorch, Tensorflow, ROS2**
-- ⚡ Fun fact: I love solving puzzles and optimization problems.
+- ⚡ Fun fact: I love **research** and **optimization problems**.
 ---
 
 <picture>
